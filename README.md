@@ -1,5 +1,5 @@
 # Computer-Science-Fundamental-
-This Repo contains my notes of OOPS - DBMS - SQL - CN - OS
+This Repo contains my notes of OOPS - DBMS - SQL - CN - OS 
 
 ## OOPS
 ![OOPS](https://github.com/deveshkumar-2000/Computer-Science-Fundamental-/assets/103423370/6c73920a-c335-404b-9b38-57e424a3f6fb)
